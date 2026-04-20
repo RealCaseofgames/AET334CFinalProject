@@ -20,4 +20,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/3DGamekit/Scenes/UI/Loading.unity
     guid: ebc4647ff02971c4ba1b207af066be4d
+  - enabled: 1
+    path: Assets/Scenes/Trials/Hub.unity
+    guid: 29efe358fbda652febc790018c40e095
+  - enabled: 1
+    path: Assets/Scenes/Trials/Office.unity
+    guid: 8d1a77dccdee422c69815edc3a9d37cb
   m_configObjects: {}
